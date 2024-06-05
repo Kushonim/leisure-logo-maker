@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by Jest
+coverage/
+
+# Dependency directories
+jspm_packages/
+typings/
+.bower_components/
+
+# Environment variables
+.env
+.env.test
+.env.production
+
+# Ignore dist directory if generated
+dist/
+
+# Ignore generated SVG files (optional)
+logo.svg
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+
+# Ignore build directories
+build/
