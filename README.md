@@ -5,6 +5,7 @@ The application prompts the user to select a color and shape, provide text for t
 ## Installation & Demo
 Simply download the files provided by the application's [repo](https://github.com/Kushonim/leisure-logo-maker) and/or follow along with the [demo video](https://drive.google.com/file/d/1-lIQ-eKG9x56b0_U9V5od_zCvrpCH_mi/view). If there is no video available, open the assets folder's integrated terminal and install all npm's and run the index.js file with node.
 
+
 ## Usage
 The application once ran on node via the index.js file will prompt the user for the desired colors, shape, and test of the logo they're designing. Once all selections and preferences have been submitted, the application will generate the logo in a .svg file format and can be easily accesed through your default browser.
 
