@@ -1,6 +1,6 @@
-import fs from 'fs';
-import getUserInput from './lib/prompt.js';
-import generateSVG from './lib/svg.js';
+const fs = require('fs');
+const getUserInput = require('./lib/prompt.js');
+const generateSVG = require('./lib/svg.js');
 
 async function run() {
   try {
